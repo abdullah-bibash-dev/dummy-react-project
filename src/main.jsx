@@ -22,6 +22,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       <Routes>
         <Route path="/" element={<App />} />
         <Route path="/animated" element={<AnimatedPage />} />
+        <Route path="/animated2" element={<AnimatedPage />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>,
