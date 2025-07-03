@@ -6,7 +6,6 @@ const AnimatedPage = () => {
     <div className="animated-page">
       <h1 className="fade-in">🎬 Feature Branch Animation Page</h1>
       <p className="slide-in">Added more detailed animation after forking</p>
-      <p className="slide-in">Added more detailed animation after forking</p>
       <button className="scale-on-hover">Hover me</button>
 
       <br /><br />
